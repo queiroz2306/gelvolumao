@@ -801,7 +801,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0);
 }
 .cid-sCXoc4WyZ0 .navbar.opened {
   transition: all 0.3s;
@@ -1341,6 +1341,38 @@ a {
     width: 100%;
   }
 }
+.cid-sDFmrumToU {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #fafafa;
+}
+@media (max-width: 767px) {
+  .cid-sDFmrumToU .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-sDFmrumToU .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sDFmrumToU .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
+.cid-sDFmrumToU .card-wrapper {
+  border-radius: 4px;
+  background-color: #6ec7f2;
+}
+.cid-sDFmrumToU .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-sDFmrumToU .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
 .cid-sCoKMbZZqk {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -1462,7 +1494,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0);
 }
 .cid-sCXoc4WyZ0 .navbar.opened {
   transition: all 0.3s;
@@ -1811,7 +1843,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0);
 }
 .cid-sCXoc4WyZ0 .navbar.opened {
   transition: all 0.3s;
